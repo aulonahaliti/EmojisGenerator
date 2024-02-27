@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: rgb(236, 215, 215);
+    text-align: center;
+    margin-top: 12%;
+}
+
+#emoji, h1,h2{
+    font-size: 18px;
+}
+
+#btn{
+    font-size: 15px;
+}
